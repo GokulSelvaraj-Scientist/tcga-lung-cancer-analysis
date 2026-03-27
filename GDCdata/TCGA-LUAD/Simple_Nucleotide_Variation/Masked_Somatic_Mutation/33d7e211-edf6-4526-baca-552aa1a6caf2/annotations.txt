@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-f816a5fa-cd5c-5699-940c-eab62261aa0c	672	case	7099597a-b208-45b5-b9e0-11ab40d5e497	Qualification metrics changed	Notification	2010-09-02T00:00:00	Approved	[intgen.org]: Changes to qualification metrics
-70503c8d-b4c7-4739-aa73-a060c62d9043	\N	masked_somatic_mutation	33d7e211-edf6-4526-baca-552aa1a6caf2	General	Notification	2022-02-28T15:08:32.106560-06:00	Approved	Variants from SomaticSniper are not included.

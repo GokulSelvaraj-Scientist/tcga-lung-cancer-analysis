@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-ade6d7b6-ad37-5025-b07a-b994297f3bbd	11742	case	5af499be-d2b9-4eaf-9a9f-435dccb51917	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy thryoid cancer. No systemic chemotherapy or radiation.
-afa90ee0-626c-4158-9da5-28047ef8af34	\N	masked_somatic_mutation	d2fe8d87-dd55-42c9-bacf-5e5b6938f96f	General	Notification	2022-02-28T15:11:40.358352-06:00	Approved	Variants from SomaticSniper are not included.

@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-2bff563b-fc3e-5e0e-82c8-00aed85f6004	661	case	a41c46da-7ed4-4192-bd16-b3cbb94a5133	Prior malignancy	Notification	2010-09-15T00:00:00	Approved	[intgen.org]: Prior Malignancy
-3a984d3c-36d8-4644-af34-15dd94f28ab1	\N	masked_somatic_mutation	8a0ad5f7-749a-487d-952a-603ec1a5de50	General	Notification	2022-02-28T15:16:08.865522-06:00	Approved	Variants from SomaticSniper are not included.

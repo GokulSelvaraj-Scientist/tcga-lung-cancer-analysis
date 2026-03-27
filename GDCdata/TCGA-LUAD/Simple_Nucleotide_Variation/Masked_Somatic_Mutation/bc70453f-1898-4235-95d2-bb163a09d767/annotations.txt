@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-88a5d1a8-c2a2-5f8b-810e-270e416eeb72	11663	case	9f81c602-8afa-4588-b0b6-6e5a1a128d5a	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy bladder cancer. No systemic chemotherapy or radiation.
-84eafb9b-a39d-4af4-b27a-35579d65a875	\N	masked_somatic_mutation	bc70453f-1898-4235-95d2-bb163a09d767	General	Notification	2022-02-28T15:17:30.960877-06:00	Approved	Variants from SomaticSniper are not included.

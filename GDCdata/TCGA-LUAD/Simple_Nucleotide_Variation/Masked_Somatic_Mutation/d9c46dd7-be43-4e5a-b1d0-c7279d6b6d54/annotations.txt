@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-9438962b-a1b4-5475-888c-cca3c77f4675	11965	case	ad74c0e8-8878-4efc-997d-981cd547bc5b	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous R bronchioalveolar carcinoma
-b4819256-4403-42ce-99d2-9beba54f9c21	\N	masked_somatic_mutation	d9c46dd7-be43-4e5a-b1d0-c7279d6b6d54	General	Notification	2022-02-28T15:14:04.610772-06:00	Approved	Variants from SomaticSniper are not included.

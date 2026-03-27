@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-10abd3ec-ab57-5d17-8feb-ab9bc8eb8016	11962	case	108a71cf-b9db-47cd-aa74-c03ec989b41b	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous cancer of the thymus.
-c0cfe50b-1c0d-46d4-a037-516fb47ad763	\N	masked_somatic_mutation	12e50a65-f017-45a8-b176-10ceb6e8d754	General	Notification	2022-02-28T13:44:13.940802-06:00	Approved	Variants from SomaticSniper are not included.

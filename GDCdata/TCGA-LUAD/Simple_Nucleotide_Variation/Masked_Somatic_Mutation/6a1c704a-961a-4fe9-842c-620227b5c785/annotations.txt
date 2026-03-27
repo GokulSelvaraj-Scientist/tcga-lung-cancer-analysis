@@ -1,4 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-7bb74a17-1c98-5eb1-940c-a49f5d2e42b0	11747	case	772324a5-5513-454d-ad6b-605798f69b73	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy melanoma of the L arm. No systemic chemotherapy or radiation. Patient with synchronous mucinous adenocarcinoma R lung.
-153d209c-6671-4ea2-bad4-386a68cb90b1	\N	masked_somatic_mutation	6a1c704a-961a-4fe9-842c-620227b5c785	General	Notification	2022-02-28T15:09:16.877331-06:00	Approved	Variants from SomaticSniper are not included.
-4217dea9-4702-56c3-9768-f7b34280a398	11955	case	772324a5-5513-454d-ad6b-605798f69b73	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy melanoma of the L arm. No systemic chemotherapy or radiation. Patient with synchronous mucinous adenocarcinoma R lung.

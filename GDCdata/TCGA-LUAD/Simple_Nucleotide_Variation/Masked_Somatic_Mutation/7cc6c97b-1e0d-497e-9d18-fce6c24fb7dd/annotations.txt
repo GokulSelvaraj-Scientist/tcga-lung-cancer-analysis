@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-2455f4d8-9b14-5dfb-9cc9-2c2f1f5d205a	5491	case	69dba721-a168-47a4-b7ff-80a448bad654	Prior malignancy	Notification	2012-03-20T00:00:00	Approved	R breast CA. No chemo or radiation.
-fb401321-4c1f-4b3c-88d2-301e95a332ae	\N	masked_somatic_mutation	7cc6c97b-1e0d-497e-9d18-fce6c24fb7dd	General	Notification	2022-02-28T15:08:27.361612-06:00	Approved	Variants from SomaticSniper are not included.
