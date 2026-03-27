@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+5a5b453a-b668-478f-8074-02c9ebafb2e3	\N	masked_somatic_mutation	a7e41e8a-57ac-4206-a300-ce3377059e5a	General	Notification	2022-02-28T13:47:35.552500-06:00	Approved	Variants from SomaticSniper are not included.
+0365ba15-1b97-57a1-a38d-598be7dc4e21	11964	case	294ff941-aea1-4588-9a0e-e9f5393e2bb6	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous L breast cancer

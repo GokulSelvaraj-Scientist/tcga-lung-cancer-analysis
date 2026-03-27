@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9ea06716-4513-452b-b952-72dc5f6b39b8	\N	masked_somatic_mutation	72c46029-bf04-4eda-a7ea-cc7242253294	General	Notification	2022-02-28T13:43:57.725951-06:00	Approved	Variants from SomaticSniper are not included.
+b628978c-df81-5b2e-9771-5e766b80c60c	11739	case	12b79b4f-c28c-418e-a1e7-e622f33fdcc2	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy prostate cancer. No systemic chemotherapy or radiation.

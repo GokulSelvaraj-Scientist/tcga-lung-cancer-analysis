@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8351a40c-d475-4a0d-8bc5-714347fcd06e	\N	masked_somatic_mutation	470b8e24-fe52-48ef-a2ff-dccc721d7a8b	General	Notification	2022-02-28T13:47:58.915758-06:00	Approved	Variants from SomaticSniper are not included.
+9895b432-b09e-5b6d-ab55-93cf26eed349	11940	case	127bf818-f7e5-46b5-a9de-39f6d96b8b83	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  of the larynx treated with chemotherapy and radiation.

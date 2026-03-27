@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+9e06003c-9994-45f7-8a31-14576f9f14cf	\N	masked_somatic_mutation	f3783fb1-d04b-4132-bafc-ba27741c82e4	General	Notification	2022-02-28T15:11:56.348362-06:00	Approved	Variants from SomaticSniper are not included.
+4a138ab5-71b0-562a-b25f-4da793357212	11672	case	b40d0849-f4ef-4a14-9732-9beb708cb46b	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma or the ear and nose. No systemic chemotherapy or radiation.

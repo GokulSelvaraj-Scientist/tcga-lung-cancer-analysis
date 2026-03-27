@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+36eaae1f-22b2-43e1-9624-9b01a4d060f1	\N	masked_somatic_mutation	9510a555-586e-470f-855d-79a7e687cc44	General	Notification	2022-02-28T15:16:30.754349-06:00	Approved	Variants from SomaticSniper are not included.
+d2037039-65d6-5842-9baa-c6398b3cab50	11668	case	d94fe32f-bedd-4f4c-9feb-fcb60d40f4bb	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy  breast cancer. No systemic chemotherapy or radiation.

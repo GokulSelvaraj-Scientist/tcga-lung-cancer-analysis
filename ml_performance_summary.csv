@@ -1,0 +1,2 @@
+"Analysis","Model","N_samples","N_features","Accuracy","Sensitivity","Specificity","AUC"
+"2-year survival prediction","Random Forest",118,53,0.348,0.182,0.5,0.746

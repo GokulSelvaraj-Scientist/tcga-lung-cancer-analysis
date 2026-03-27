@@ -1,0 +1,3 @@
+[download]
+retry_amount = 6
+dir =GDCdata/TCGA-LUAD/Simple_Nucleotide_Variation/Masked_Somatic_Mutation

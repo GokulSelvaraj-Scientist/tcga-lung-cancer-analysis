@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+d5e947a6-19f7-40c2-bf3b-cb5e1c2c4c5f	\N	masked_somatic_mutation	02c37aa1-ff1e-4548-ace1-0953351e6d01	General	Notification	2022-02-28T15:11:07.813607-06:00	Approved	Variants from SomaticSniper are not included.
+d34849bc-6fce-584d-a1ff-47edb2452d86	11731	case	9b38eded-3f46-4aaa-9991-68008d97bdbe	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy of the vulva. No systemic chemotherapy or radiation.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+666b76a6-79df-45ff-8142-e754fe5ad9a2	\N	masked_somatic_mutation	c7910d9c-92e7-4992-b68f-6a35a93ff6b7	General	Notification	2022-02-28T13:44:57.935274-06:00	Approved	Variants from SomaticSniper are not included.
+a20b5829-4ce7-55f1-8fe6-00f264832e3e	4968	case	195a5afb-b79f-44d2-9d12-884487630c2b	Neoadjuvant therapy	Notification	2012-01-24T00:00:00	Approved	[intgen.org]: Patient received neo-adjuvant chemo for tumor submitted to TCGA.

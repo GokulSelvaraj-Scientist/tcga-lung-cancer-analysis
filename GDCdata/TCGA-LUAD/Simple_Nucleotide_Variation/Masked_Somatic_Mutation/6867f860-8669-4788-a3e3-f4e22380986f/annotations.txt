@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+abcb6298-b535-591c-bc76-292712a37158	11970	case	0b31dbdf-0623-48e4-a0ec-017650dceda7	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous thyroid cancer.
+2c2a9b12-9d5d-4f7a-aa74-0869bcb2440c	\N	masked_somatic_mutation	6867f860-8669-4788-a3e3-f4e22380986f	General	Notification	2022-02-28T13:48:04.936366-06:00	Approved	Variants from SomaticSniper are not included.

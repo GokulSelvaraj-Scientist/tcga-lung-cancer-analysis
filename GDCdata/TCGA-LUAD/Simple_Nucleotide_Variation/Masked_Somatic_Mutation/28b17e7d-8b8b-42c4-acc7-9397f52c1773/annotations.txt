@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+1dfa93f0-3578-4b5a-ad4d-ee26206206ee	\N	masked_somatic_mutation	28b17e7d-8b8b-42c4-acc7-9397f52c1773	General	Notification	2022-02-28T15:16:29.174191-06:00	Approved	Variants from SomaticSniper are not included.
+6d097feb-1d30-5bd7-9945-6551a99a0af3	11948	case	cbfef004-b437-4d51-9d88-a2db50aa6481	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous endometrial cancer.

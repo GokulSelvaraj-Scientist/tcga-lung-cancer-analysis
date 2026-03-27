@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+db7b9f50-02a4-44e4-a035-ab3efb5b372a	\N	masked_somatic_mutation	b4d95448-280a-432c-adc2-c04dfd8944a2	General	Notification	2022-02-28T13:44:32.842507-06:00	Approved	Variants from SomaticSniper are not included.
+671362a8-526f-57e6-93a7-31584afeb2ab	11949	case	0d66bf6c-eed0-4726-bd5b-3bf6d610b4e0	Synchronous malignancy	Notification	2012-11-10T00:00:00	Approved	Pt with synchronous R lung carcinoid tumor.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+e0452412-f64f-4425-aa29-0ea910301257	\N	masked_somatic_mutation	0344b01e-7430-4200-81cb-d48a3a8998ac	General	Notification	2022-02-28T15:15:01.097431-06:00	Approved	Variants from SomaticSniper are not included.
+a292e01a-b87c-5fbc-a4cd-01a453e14fde	11760	case	e0acafdd-06d0-48a6-bd68-577ef666a419	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy cancer of the larynx. No systemic chemotherapy or radiation.

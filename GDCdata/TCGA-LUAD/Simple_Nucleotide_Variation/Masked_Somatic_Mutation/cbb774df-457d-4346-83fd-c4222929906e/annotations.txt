@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ac0bed2c-4d05-4312-98fd-fde59a5e3318	\N	masked_somatic_mutation	cbb774df-457d-4346-83fd-c4222929906e	General	Notification	2022-02-28T13:46:34.699840-06:00	Approved	Variants from SomaticSniper are not included.
+ddf0df77-2272-5a0e-ab6d-3a9ff7e746e0	11733	case	230dc42d-681c-4e31-9d2e-c724e61829fb	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy skin cancer upper lip.  No systemic chemotherapy or radiation.
